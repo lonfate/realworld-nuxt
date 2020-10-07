@@ -3,7 +3,7 @@
         <div class="home-page">
             <div class="banner">
                 <div class="container">
-                    <h1 class="logo-font">My Object</h1>
+                    <h1 class="logo-font">Hello Everyone</h1>
                     <p>A place to share your knowledge.</p>
                 </div>
             </div>
